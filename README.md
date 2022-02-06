@@ -1,5 +1,5 @@
 # KJVBible-Quote-Images
-The best quotes from the KJV Bible, in image format.
+The best quotes from the KJV Bible, in image format. Please download and share.
 
 If you're on your phone, open the "code" tab up top, click a book folder, and then scroll down to see the images.
 
